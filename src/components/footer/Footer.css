@@ -1,0 +1,35 @@
+.main__footer{
+    background-color: black;
+    color:white;
+           
+}
+.main__footer__row1{
+  
+}
+.main__footer__spacing{
+    padding:100px;
+    margin:20px
+}
+
+.col1{
+  justify-content: center;
+  display: flex;
+}
+.col2{
+    justify-content: center;
+    display: flex;
+  }
+
+  .text1{
+        color:red;
+        
+      
+  }
+  .text2{
+    width:500px;
+    margin-top:150px;
+    font-size:50px;
+    font-weight: 600;
+   
+  
+}
