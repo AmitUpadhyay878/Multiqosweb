@@ -4,8 +4,8 @@ import Footer from "./components/footer/Footer";
 function App() {
   return (
     <>
-      {/* <Appbar />
-      <Banner />  */}
+      <Appbar />
+      <Banner /> 
       <Footer/>
     </>
   );
