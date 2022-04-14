@@ -9,7 +9,7 @@ import DummyBlog from "./DummyBlog";
 import { computeHeadingLevel } from "@testing-library/react";
 const Blogs = () => {
   const category = [
-   " All",
+    " All",
     "App Development",
     "web Development",
     "UI / UXDesign",
