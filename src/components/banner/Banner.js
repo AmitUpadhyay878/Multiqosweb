@@ -1,12 +1,13 @@
 import React from "react";
-import {  Card, Col, Container, Row } from "react-bootstrap";
+import { Card, Col, Container, Row } from "react-bootstrap";
 import { ReactComponent as MQlogo } from "../../assets/MULTIQOSICON.svg";
 import "./banner.css";
 const Banner = () => {
   return (
     <>
+
       <div class="maindiv">
-         {/* <Card.Img variant="top" src="holder.js/100px180" />  */}
+        {/* <Card.Img variant="top" src="holder.js/100px180" />  */}
         <Card.Body>
           <Container>
             <Row>
@@ -24,7 +25,7 @@ const Banner = () => {
               </Col>
             </Row>
           </Container>
-         
+
           <Card.Title class="title">SERVICES</Card.Title>
         </Card.Body>
       </div>

@@ -1,0 +1,143 @@
+ .footer_text {
+     margin: 300px 0px 0px 100px;
+     text-align: left;
+     font-size: 26px;
+     letter-spacing: 0px;
+     color: #FE5C58;
+     opacity: 1;
+ }
+
+ .mydiv {
+     background-color: white;
+     color: black;
+     margin-top: 60px;
+
+ }
+
+ .column_text {
+     text-align: left;
+     font: normal normal 800 65px/65px Gilroy ☞;
+     letter-spacing: 1.95px;
+     color: #000000;
+     opacity: 1;
+     margin: 20px 0px 0px 100px;
+     line-height: 65px;
+ }
+
+ .column2_text {
+     /* text-align: left; */
+     text-align: justify;
+     margin: 20px 112px 0px 118px;
+     font: normal normal 300 28px/50px Gilroy ☞;
+     letter-spacing: 1.4px;
+     color: #000000;
+     opacity: 1;
+     line-height: 50px;
+ }
+
+ .column_num {
+     text-align: left;
+     margin: 20px 0px 0px 360px;
+     font: normal normal 800 200px/160px Gilroy ☞;
+     letter-spacing: 2px;
+     color: #000000;
+     text-transform: uppercase;
+     opacity: 0.05;
+
+
+
+ }
+
+ .what_we_text {
+     margin: 15px 0px 0px 1060px;
+     text-align: left;
+     font: normal normal medium 30px/36px Gilroy ☞;
+     font-size: 26px;
+     letter-spacing: 0px;
+     color: #FE5C58;
+     opacity: 1;
+ }
+
+ .column2_num {
+
+     font: normal normal 800 200px/160px Gilroy ☞;
+     letter-spacing: 2px;
+     color: #000000;
+     text-transform: uppercase;
+     opacity: 0.05;
+     margin: 0px 0px 0px 100px;
+ }
+
+ .our_text {
+
+     text-align: left;
+     font-size: 26px;
+     letter-spacing: 0px;
+     color: #FE5C58;
+     opacity: 1;
+     margin: 88px 0px 0px 116px;
+ }
+
+ .images {
+     /* position: absolute; */
+     /* 
+     width: 160px;
+     height: 150px; */
+     margin: 50px 0px 0px 308px;
+     background-color: white;
+ }
+
+
+ .Inner_Logo {
+     position: relative;
+     margin: -179px 0px 0px 363px;
+
+ }
+
+ .lorem_text {
+     font: normal normal 800 40px/50px Gilroy ☞;
+     letter-spacing: 0.5px;
+     color: #000000;
+     margin: 55px 0px 0px 116px !important;
+ }
+
+ .lorem_inner_text {
+     text-align: justify;
+     font: normal normal 300 28px/50px Gilroy ☞;
+     letter-spacing: 1.4px;
+     color: #000000;
+     margin: 0px 0px 0px 116px;
+ }
+
+ .sec__side {
+     content: "001";
+     display: inline-block;
+     transform: matrix(0, -1, 1, 0, 0, 0) !important;
+     font: normal normal bold 25/36px Bell MT;
+     color: #BEBEBE;
+ }
+
+
+ .card_column {
+     top: 15px;
+     width: 320px;
+     height: 320px;
+     background: #000000 0% 0% no-repeat padding-box !important;
+     color: #FFFFFF;
+     opacity: 1;
+ }
+
+ .card_inner_img {
+     margin: 50px 0px 0px 75px;
+     width: 164px;
+     height: 220px;
+     cursor: pointer;
+ }
+
+ .lets {
+
+     height: 620px;
+
+     background: #000000 0% 0% no-repeat padding-box;
+     opacity: 1;
+ }

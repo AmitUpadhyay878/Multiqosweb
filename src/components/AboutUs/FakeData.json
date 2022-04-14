@@ -1,0 +1,29 @@
+[
+    {
+        "title": "OUR VISION",
+        "body": "Our vision is to deliver ground breaking technology solutions with out of the box approaches in development."
+    },
+    {
+        "title": "OUR MISSION",
+        "body": "Our mission is to equip and strengthen our business clients with standout digital presence through innovative and customer."
+    },
+    {
+        "title": "QUALITY POLICY",
+        "body": "We are the voice for quality. We are committed to deliver a flawless digital solution fulfilling the clients need and business goals."
+    },
+    {
+        "img": "../assets/f1.png",
+        "title": "Fixed-Price",
+        "body": "We help our clients stay in complete Control over the cost vs expectations from an app project with the fixed price model."
+    },
+    {
+        "img": "../assets/f2.png",
+        "title": "Time and Material",
+        "body": "We help our clients stay flexible in terms of hiring developer resources based on the evolving project needs through the..."
+    },
+    {
+        "img": "../assets/f3.png",
+        "title": "Dedicated",
+        "body": "We help our clients to take advantage of integrating the most accomplished developer talents with the..."
+    }
+]

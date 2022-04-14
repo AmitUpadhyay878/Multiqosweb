@@ -31,6 +31,7 @@ import {
 const Footer = () => {
   return (
     <>
+
       <div className="main__footer">
         <div className="main__footer__spacing">
           <div className="main__footer__row1">
@@ -263,6 +264,7 @@ const Footer = () => {
           <div className="main__footer__row6"></div>
         </div>
       </div>
+
     </>
   );
 };
