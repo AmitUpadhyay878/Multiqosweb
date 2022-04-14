@@ -4,7 +4,23 @@
            
 }
 .main__footer__row1{
-  
+  grid-template-columns: auto auto;
+}
+.main__footer__row2{
+
+  grid-template-columns: auto auto auto auto;
+}
+.main__footer__row3{
+  grid-template-columns: auto auto auto auto auto;
+}
+.main__footer__row4{
+  grid-template-columns: auto auto auto;
+}
+.main__footer__row5{
+  grid-template-columns: auto auto;
+}
+.main__footer__row6{
+  grid-template-columns: auto auto auto;
 }
 .main__footer__spacing{
     padding:100px;
@@ -32,4 +48,28 @@
     font-weight: 600;
    
   
+}
+
+.countryrow{
+ 
+
+}
+.mqlogo{
+  color:gray;
+}
+.form_Button_Class{
+  padding:5px;
+}
+
+.footer_Col5_Left{
+mix-blend-mode: luminosity;
+opacity: 1;
+}
+.footer_Col5_RightSection{
+  display: flex;
+  align-items:center;
+ 
+}
+.row6_col2{
+  padding-left:10px;
 }

@@ -4,7 +4,7 @@ const Company = () => {
   return (
     <div>
         <div>
-          
+                <h1>Company</h1>
         </div>
 
 

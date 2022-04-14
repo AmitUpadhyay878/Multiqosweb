@@ -1,0 +1,54 @@
+.BlogList{
+    /* position: absolute; */
+    /* width: 697px;
+    height: 697px;  */
+
+}
+.blogImage{
+   
+   
+    height:697px; 
+               
+}
+
+.BlogDate{
+        position: absolute;
+    width:100px;
+    height:30px;
+    /* margin:-400px 0px 0px 40px; */
+    background-color: red;
+}
+.BlogDate .BlogDateText{
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+/* height: 697px;
+width: 697px; */
+.categories{
+    background-color: black;
+    height:400px;
+    color: white;
+    /* border: 1px solid white; */
+   
+}
+.categories_text{
+    border:2px solid white;
+    border-radius: 10px;
+    padding:8px;
+    margin:5px;
+    height:30px;
+    cursor: pointer;
+    
+}
+.categories_text:hover{
+    background-color: white;
+   
+    color: black;
+}
+.category_text{
+    margin-bottom: 30px;
+    color:red;
+}

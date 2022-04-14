@@ -8,8 +8,9 @@ const Banner = () => {
 
       <div class="maindiv">
         {/* <Card.Img variant="top" src="holder.js/100px180" />  */}
-        <Card.Body>
-          <Container>
+        <Container>
+
+          <Card.Body>
             <Row>
               <Col sm={8}>
                 <Card.Text class="text">
@@ -24,10 +25,11 @@ const Banner = () => {
                 </span>
               </Col>
             </Row>
-          </Container>
 
-          <Card.Title class="title">SERVICES</Card.Title>
-        </Card.Body>
+
+            <Card.Title class="title">BLOGS</Card.Title>
+          </Card.Body>
+        </Container>
       </div>
     </>
   );
