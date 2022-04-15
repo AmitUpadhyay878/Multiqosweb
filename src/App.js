@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <Appbar />
-      <Blogs />
+      {/* <Blogs /> */}
       <Section2 />
       <Footer />
 
